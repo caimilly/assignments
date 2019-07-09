@@ -18,6 +18,6 @@
 
 ## Labs
 
-1. [SHELL] (https://github.com/hbcustayready/shell-console)
-2. [GIT] (https://github.com/hbcustayready/getongit)
-3. [Core Fundamentals] (https://github.com/hbcustayready/core-fundamentals)
+1. [SHELL](https://github.com/hbcustayready/shell-console)
+2. [GIT](https://github.com/hbcustayready/getongit)
+3. [Core Fundamentals](https://github.com/hbcustayready/core-fundamentals)
