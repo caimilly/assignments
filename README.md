@@ -21,4 +21,5 @@
 1. [SHELL](https://github.com/hbcustayready/shell-console)
 2. [GIT](https://github.com/hbcustayready/getongit)
 3. [TDD](https://github.com/hbcustayready/MyFirstTDD)
-4. [Core Fundamentals](https://github.com/hbcustayready/core-fundamentals)
+4. [Hella Loops](https://github.com/hbcustayready/HellaLoops)
+5. [Core Fundamentals](https://github.com/hbcustayready/core-fundamentals)
