@@ -16,7 +16,7 @@
 ### Websites
 1. [S.O.L.I.D. principles](https://medium.com/@dhkelmendi/solid-principles-made-easy-67b1246bcdf)
 
-##Labs
+## Labs
 
 1. [SHELL] (https://github.com/hbcustayready/shell-console)
 2. [GIT] (https://github.com/hbcustayready/getongit)
